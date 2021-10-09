@@ -1,0 +1,5 @@
+Go to team name on the left by the channels. 
+Click the "..." 
+Click "Manage team"
+Go to the "Apps" tab on the right
+Click on the Trash icon next to Azure DevOps
